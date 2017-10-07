@@ -1,0 +1,6 @@
+Execute following Maven command
+mvn clean install -f ./selenium_project_infusion
+
+Regarding TC3: I used some different assumptions (currently there is no : City is Wroclaw, position is QA analyst and qualifications is
+'Developing automated integration and
+smoke tests using modern tools including Selenium, SoapUI (web front-end and services)'
